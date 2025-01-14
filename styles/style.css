@@ -1,1 +1,7 @@
-/* место для вашего кода */
+ul { 
+    list-style-type: none; 
+  }
+
+.menu_list {
+    list-style-image: url("../images/list_marker.svg"); 
+}
