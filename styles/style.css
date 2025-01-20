@@ -203,7 +203,7 @@ z-index: 1;
 }
 .about__logo {
   margin-left: 70px;
-  margin-top: 40px;
+  margin-top: 45px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -222,7 +222,7 @@ z-index: 1;
   font-size: 40px;
   font-weight: 700;
   line-height: 120%;
-  margin-top: 76px;
+  margin-top: 80px;
   margin-bottom: 68px;
 }
 .about__text {
@@ -235,7 +235,7 @@ z-index: 1;
   justify-content: space-between;
   align-items: start;
   font-size: 18px;
-  padding: 0px 50px 82px 50px;
+  padding: 0px 50px 80px 50px;
 }
 .footer__links-list {
   display: flex;
