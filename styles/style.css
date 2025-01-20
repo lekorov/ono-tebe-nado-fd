@@ -38,12 +38,10 @@ body {
   list-style: none;
   padding-left: 0;
 }
-.header__logo
-{
+.header__logo {
   height: 104px;
   width: 146px;
 }
-
 .address {
   display: flex;
   justify-content: center;
@@ -89,8 +87,7 @@ z-index: 1;
 .letter-spacing-extended {
   letter-spacing: 60px;
 }
-
-.cover__title-text{
+.cover__title-text {
   line-height: 1.15;
 }
 .aligned-text_right {
@@ -199,10 +196,8 @@ z-index: 1;
   display: grid;
   margin: 0px 24px 180px 0px;
   grid-template-columns: 384px auto;
-  
 }
-.about__logo-image
-{
+.about__logo-image {
   height: 125px;
   width: 144px;
 }
@@ -270,7 +265,7 @@ z-index: 1;
   align-items: center;
   list-style: none;
 }
-.address_list_footer{
+.address_list_footer {
   display: flex;
   flex-direction: column;
   list-style: none;
