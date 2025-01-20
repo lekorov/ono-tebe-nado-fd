@@ -1,16 +1,16 @@
-.text-uppercase{
+.text-uppercase {
     text-transform: uppercase;
 }
 
-.text-line{
+.text-line {
     text-decoration: underline;
     text-underline-offset: 18%;
 }
 
-.text-lowercase{
+.text-lowercase {
     text-transform: lowercase;
 }
 
-.text-line-none{
+.text-line-none {
     text-decoration: none;
 }
